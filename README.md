@@ -1,5 +1,5 @@
 # GardenPlanner
-A text-based garden-planning application for North Carolina.
+Written in Java: a text-based garden-planning application for North Carolina.
 
 GardenPlanner.jar is a garden-planning application for North Carolina.  The .java and .class files are in zipped file in this repository.  
 To use the applicaton, the user will select the North Carolina city closest to him.  The application will return an average last frost date for that particular city.  Then the user will select from a list of plants to plant.  
